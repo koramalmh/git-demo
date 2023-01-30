@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+master
+master
+master
+master
+master
+=======
 hot_fix
 hot_fix
 hot_fix
